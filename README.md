@@ -11,7 +11,7 @@
 - 🛠️ Tools: Visual Studio Code and MongoDB
 
 🌌 **Projects:**
-- 😎 I am currently working on a web application that connects budding artists to commission clients!
+- 😎 I am currently working with a team of dedicated coders on a web application that connects budding artists to commission clients!
 
 🤝 **Lets Connect:**
 - 📫 How to reach me: Drop me a message on GitHub! I'll be sure to get to you ASAP
