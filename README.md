@@ -7,13 +7,14 @@
 - 🤓 I am currently learning more about web development techniques to enhance my coding skills and build awesome websites!
 
 🖥️ **Tech Stack:**
-- 📚 Languages: C++, Java, HTML, and CSS
+- 📚 Languages: C++, Python, Java, HTML, and CSS
 - 🛠️ Tools: Visual Studio Code and MongoDB
 
 🌌 **Projects:**
-- 😎 I am currently working with a team of dedicated coders on a web application that connects budding artists to commission clients!
-
+- 😎 I have worked with a team of dedicated coders on a web application that connects budding artists to commission clients!
+- 🛠️ My goal is to continue working on this website as both a way to improve my skills and hopefully have the site hosted!
+  
 🤝 **Lets Connect:**
 - 📫 How to reach me: Drop me a message on GitHub! I'll be sure to get to you ASAP
-- ✨Extra: I find joy in crochet, gardens, and baking. 
+- ✨Extra: I find joy in crochet, gardens, reading and baking. 
 
